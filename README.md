@@ -27,7 +27,7 @@
 apiVersion: v1
 kind: DevOpsEngineer
 metadata:
-  name: Merthan
+  name: Mert
   namespace: production
   labels:
     role: Senior DevOps Engineer

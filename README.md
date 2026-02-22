@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Social Badges -->
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@d4v1dh4yt3r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-telli-915951127/)
 [![GitHub followers](https://img.shields.io/github/followers/DavidHayter?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=06D6A0)](https://github.com/DavidHayter)
 [![Profile Views](https://komarev.com/ghpvc/?username=DavidHayter&style=for-the-badge&color=06D6A0&label=PROFILE+VIEWS)](https://github.com/DavidHayter)
 

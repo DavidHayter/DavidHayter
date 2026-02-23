@@ -212,8 +212,8 @@ spec:
 
 | 📅 Date | 🎯 Topic | 📍 Event | 🔗 Link |
 |---------|---------|---------|---------|
-| 2025 | _Konu Başlığı_ | _Etkinlik Adı_ | [📹 Video](#) |
-| 2024 | _Konu Başlığı_ | _Etkinlik Adı_ | [📹 Video](#) |
+| 2025 | DevOps: Beklenmedik Yolculuk | Huawei Developer Groups Türkiye | [📹 Video](https://www.youtube.com/watch?v=wNWY9sjxB3A&t=1800s) |
+| 2022 | the "Environment" of Python | Python Saati | [📹 Video](https://www.youtube.com/watch?v=DTYPqSB-5yY&t=2831s) |
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

@@ -197,11 +197,11 @@ spec:
 ## ✍️ Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Bu bölüm GitHub Actions ile otomatik güncellenecek -->
-- 🔥 [Kubernetes Maceralarımız — Serisi](#)
-- 🐍 [Python Modülleri — Serisi](#)
-- 🌐 [Hacker'ın Gözünden Network & Modern Web](#)
-<!-- BLOG-POST-LIST:END -->
+- 🔥 [Kubernetes Maceralarımız, Part 4: CPU “Yeterli” Dedi, Metrikler “Rahat Ol” Dedi… Servis Boğuluyordu](https://d4v1dh4yt3r.medium.com/kubernetes-maceralar%C4%B1m%C4%B1z-part-4-cpu-yeterli-dedi-metrikler-rahat-ol-dedi-servis-bo%C4%9Fuluyordu-04663709c70e?source=rss-6be8b83b8ddb------2)
+- 🔥 [Kubernetes Maceralarımız, Part 3: Ingress “Buradayım” Dedi — Ama Tüm Trafiği Yanlış Servise…](https://d4v1dh4yt3r.medium.com/kubernetes-maceralar%C4%B1m%C4%B1z-part-3-ingress-buraday%C4%B1m-dedi-ama-t%C3%BCm-trafi%C4%9Fi-yanl%C4%B1%C5%9F-servise-6e38e7c6fd49?source=rss-6be8b83b8ddb------2)
+- 🔥 [Kubernetes Maceralarımız, Part 2: Bitmeyen CrashLoopBackOff kabusu ve arkasında yatan gizli fail…](https://d4v1dh4yt3r.medium.com/kubernetes-maceralar%C4%B1m%C4%B1z-part-2-bitmeyen-crashloopbackoff-kabusu-ve-arkas%C4%B1nda-yatan-gizli-fail-d9e5b401d832?source=rss-6be8b83b8ddb------2)
+- 🔥 [Kubernetes Maceralarımız, Part 1: Kubernetes bize her şeyi sundu… ta ki bir gün uygulamalarımızın…](https://d4v1dh4yt3r.medium.com/kubernetes-maceralar%C4%B1m%C4%B1z-part-1-kubernetes-bize-her-%C5%9Feyi-sundu-ta-ki-bir-g%C3%BCn-uygulamalar%C4%B1m%C4%B1z%C4%B1n-fdab07ec600e?source=rss-6be8b83b8ddb------2)
+- 🔥 [Python Modülleri Serisi: Bölüm 2— Requests Modülü](https://d4v1dh4yt3r.medium.com/python-mod%C3%BClleri-serisi-b%C3%B6l%C3%BCm-2-requests-mod%C3%BCl%C3%BC-2295e3b57ebd?source=rss-6be8b83b8ddb------2)<!-- BLOG-POST-LIST:END -->
 
 ➡️ [...daha fazlası Medium'da](https://medium.com/@d4v1dh4yt3r)
 
